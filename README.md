@@ -35,17 +35,9 @@ SalePaste works entirely on your Mac. There is no networking code in the app —
 
 ## Installation
 
-SalePaste is heading to the Mac App Store. 
+SalePaste is Pending Approval on the Mac App Store. 
 
-To build and run it yourself in the meantime:
 
-```bash
-git clone https://github.com/kaiser-dekam/SalePaste.git
-cd SalePaste
-open SalePaste.xcodeproj
-```
-
-Then build and run the `SalePaste` scheme in Xcode.
 
 ## How it works
 
